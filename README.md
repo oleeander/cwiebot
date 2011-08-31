@@ -3,7 +3,7 @@ C wie .. bot
 
 What?
 -----
-This is a some kind of a bot which gets a website, processes it and grabs content for tweetin'.
+This is a some kind of a bot which gets a website, processes it and grabs content to tweet it.
 
 How?
 ----
